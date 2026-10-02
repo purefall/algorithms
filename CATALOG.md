@@ -1,0 +1,32 @@
+# Problem catalog — contains pattern categories
+
+- 01 [Two Sum](problems/arrays_hashing/01_two_sum/problem.md) — arrays_hashing
+- 02 [Count Equal-Sum Pairs](problems/arrays_hashing/02_pair_count_equal/problem.md) — arrays_hashing
+- 03 [Customers Active Every Day](problems/arrays_hashing/03_daily_customers/problem.md) — arrays_hashing
+- 04 [Compact Daily Activity](problems/arrays_hashing/04_daily_masks/problem.md) — arrays_hashing
+- 05 [Group Anagrams](problems/arrays_hashing/05_group_anagrams/problem.md) — arrays_hashing
+- 06 [Count Pairs Below K](problems/two_pointers/06_pair_less/problem.md) — two_pointers
+- 07 [Sorted Pairs Below K](problems/two_pointers/07_sorted_pair_less/problem.md) — two_pointers
+- 08 [Sparse Dot Product](problems/two_pointers/08_sparse_dot/problem.md) — two_pointers
+- 09 [Merge Sorted Streams](problems/two_pointers/09_merge_sorted/problem.md) — two_pointers
+- 10 [Deduplicate Sorted Array](problems/two_pointers/10_unique_sorted/problem.md) — two_pointers
+- 11 [Peak Load and Earliest Interval](problems/sorting_intervals/11_peak_load/problem.md) — sorting_intervals
+- 12 [All Peak Load Intervals](problems/sorting_intervals/12_all_peaks/problem.md) — sorting_intervals
+- 13 [Bounded Timestamp Peak](problems/sorting_intervals/13_bounded_load/problem.md) — sorting_intervals
+- 14 [Merge Closed Intervals](problems/sorting_intervals/14_merge_intervals/problem.md) — sorting_intervals
+- 15 [Asymmetric Sparse Dot Product](problems/binary_search/15_asymmetric_sparse/problem.md) — binary_search
+- 16 [First Value at Least Target](problems/binary_search/16_first_ge/problem.md) — binary_search
+- 17 [Minimum Daily Capacity](problems/binary_search/17_capacity/problem.md) — binary_search
+- 18 [Top K Scores](problems/heaps/18_top_k/problem.md) — heaps
+- 19 [Kth Largest in a Stream](problems/heaps/19_kth_largest/problem.md) — heaps
+- 20 [Merge K Sorted Lists](problems/heaps/20_merge_k/problem.md) — heaps
+- 21 [Maximum Tree Depth](problems/trees/21_depth/problem.md) — trees
+- 22 [Tree Level Order](problems/trees/22_levels/problem.md) — trees
+- 23 [Validate Strict BST](problems/trees/23_validate_bst/problem.md) — trees
+- 24 [Root to Leaf Sum](problems/trees/24_path_sum/problem.md) — trees
+- 25 [Affected Components](problems/graphs/25_dependencies/problem.md) — graphs
+- 26 [Shortest Unweighted Route](problems/graphs/26_shortest_route/problem.md) — graphs
+- 27 [Pipeline Execution Order](problems/graphs/27_topological/problem.md) — graphs
+- 28 [Sparse Cosine Similarity](problems/mixed/28_sparse_cosine/problem.md) — mixed
+- 29 [Longest Unique Event Window](problems/mixed/29_longest_unique/problem.md) — mixed
+- 30 [Count Target-Sum Windows](problems/mixed/30_subarray_sum/problem.md) — mixed
