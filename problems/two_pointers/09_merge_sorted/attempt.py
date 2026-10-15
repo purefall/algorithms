@@ -7,5 +7,12 @@ Space:
 Manual dry-run:
 """
 
-def solve(a, b):
-    raise NotImplementedError("Write your attempt here")
+
+def solve(a,b) -> list:
+
+    ii, jj = 0, 0
+    result = []
+
+    while 
+def solve_dummy(a, b):
+    return sorted(a + b)
